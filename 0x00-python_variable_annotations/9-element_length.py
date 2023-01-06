@@ -10,6 +10,7 @@ def element_length(lst: Iterable[Sequence])\
     """
         Args:
             lst: Sequence of list
+
         Return:
             List of tuple of sequence of integers
     """
