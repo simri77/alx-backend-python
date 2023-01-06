@@ -10,6 +10,7 @@ def zoom_array(lst: Tuple, factor: int = 2) -> List:
         Args:
             lst: Tuple of numbers
             factor: increase factor
+
         Return:
             zoomed
     """
