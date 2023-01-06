@@ -9,6 +9,7 @@ def make_multiplier(multiplier: float) -> Callable[[float], float]:
     """
         Args:
             multiplier: factor
+
         Return:
             multiplication in float
     """
