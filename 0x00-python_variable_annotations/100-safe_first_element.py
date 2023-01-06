@@ -10,6 +10,7 @@ def safe_first_element(lst: Sequence[Any]) -> Union[Any, None]:
     """
         Args:
             lst: Any data type
+
         Return:
             None or first element
     """
