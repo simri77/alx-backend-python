@@ -13,6 +13,7 @@ async def wait_random(max_delay: int = 10) -> float:
     -----------
     max_delay : int
         await time
+
     Returns
     -------
     Float
